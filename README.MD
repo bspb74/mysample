@@ -1,2 +1,2 @@
-#I am testing GIT\n
+#I am testing GIT\r
 Testing GIT!
